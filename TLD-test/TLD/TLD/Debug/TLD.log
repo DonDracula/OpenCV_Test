@@ -1,0 +1,48 @@
+﻿Build started 2016/02/04 16:26:41.
+     1>Project "F:\WorkPlace\OpenCV Test\TLD-test\TLD\TLD\TLD.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt LKTracker.cpp tld_utils.cpp
+         tld_utils.cpp
+     1>d:\software\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+     1>d:\software\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+     1>d:\software\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+     1>f:\workplace\opencv test\tld-test\tld\tld\tld_utils.cpp(10): error C2065: 'vecotr' : undeclared identifier
+     1>f:\workplace\opencv test\tld-test\tld\tld\tld_utils.cpp(10): error C2275: 'cv::Point2f' : illegal use of this type as an expression
+                 d:\software\opencv\opencv\build\include\opencv2\core\types.hpp(179) : see declaration of 'cv::Point2f'
+     1>f:\workplace\opencv test\tld-test\tld\tld\tld_utils.cpp(10): error C2039: 'const_iteratro' : is not a member of '`global namespace''
+     1>f:\workplace\opencv test\tld-test\tld\tld\tld_utils.cpp(10): error C2065: 'const_iteratro' : undeclared identifier
+     1>f:\workplace\opencv test\tld-test\tld\tld\tld_utils.cpp(10): error C2146: syntax error : missing ';' before identifier 'i'
+     1>f:\workplace\opencv test\tld-test\tld\tld\tld_utils.cpp(10): error C2065: 'i' : undeclared identifier
+     1>f:\workplace\opencv test\tld-test\tld\tld\tld_utils.cpp(10): error C2065: 'ie' : undeclared identifier
+     1>f:\workplace\opencv test\tld-test\tld\tld\tld_utils.cpp(10): error C2143: syntax error : missing ')' before '++'
+     1>f:\workplace\opencv test\tld-test\tld\tld\tld_utils.cpp(10): error C2059: syntax error : ';'
+     1>f:\workplace\opencv test\tld-test\tld\tld\tld_utils.cpp(10): error C2059: syntax error : ')'
+     1>f:\workplace\opencv test\tld-test\tld\tld\tld_utils.cpp(11): error C2143: syntax error : missing ';' before '{'
+     1>f:\workplace\opencv test\tld-test\tld\tld\tld_utils.cpp(12): error C2065: 'i' : undeclared identifier
+     1>f:\workplace\opencv test\tld-test\tld\tld\tld_utils.cpp(12): error C2227: left of '->x' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>f:\workplace\opencv test\tld-test\tld\tld\tld_utils.cpp(12): error C2227: left of '->y' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>f:\workplace\opencv test\tld-test\tld\tld\tld_utils.cpp(13): error C2065: 'i' : undeclared identifier
+     1>f:\workplace\opencv test\tld-test\tld\tld\tld_utils.cpp(18): error C2065: 'imatge' : undeclared identifier
+     1>f:\workplace\opencv test\tld-test\tld\tld\tld_utils.cpp(18): error C2228: left of '.rows' must have class/struct/union
+                 type is ''unknown-type''
+     1>f:\workplace\opencv test\tld-test\tld\tld\tld_utils.cpp(23): error C2146: syntax error : missing ';' before identifier 'median'
+     1>f:\workplace\opencv test\tld-test\tld\tld\tld_utils.cpp(23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\workplace\opencv test\tld-test\tld\tld\tld_utils.cpp(24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\workplace\opencv test\tld-test\tld\tld\tld_utils.cpp(24): error C2556: 'int median(std::vector<_Ty>)' : overloaded function differs only by return type from 'float median(std::vector<_Ty>)'
+                 with
+                 [
+                     _Ty=float
+                 ]
+                 f:\workplace\opencv test\tld-test\tld\tld\tld_utils.h(12) : see declaration of 'median'
+     1>f:\workplace\opencv test\tld-test\tld\tld\tld_utils.cpp(24): error C2371: 'median' : redefinition; different basic types
+                 f:\workplace\opencv test\tld-test\tld\tld\tld_utils.h(12) : see declaration of 'median'
+     1>f:\workplace\opencv test\tld-test\tld\tld\tld_utils.cpp(25): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+         LKTracker.cpp
+         Generating Code...
+     1>Done Building Project "F:\WorkPlace\OpenCV Test\TLD-test\TLD\TLD\TLD.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.12
