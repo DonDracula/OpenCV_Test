@@ -1,0 +1,28 @@
+﻿  main.cpp
+d:\sourcelib\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\sourcelib\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\sourcelib\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\sourcelib\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\sourcelib\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\workspace\3dpic_modify\converttest\converttest\main.cpp(55): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\workspace\3dpic_modify\converttest\converttest\main.cpp(66): warning C4101: “buffer”: 未引用的局部变量
+f:\workspace\3dpic_modify\converttest\converttest\main.cpp(90): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\workspace\3dpic_modify\converttest\converttest\main.cpp(102): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\workspace\3dpic_modify\converttest\converttest\main.cpp(103): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\workspace\3dpic_modify\converttest\converttest\main.cpp(107): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\workspace\3dpic_modify\converttest\converttest\main.cpp(108): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\workspace\3dpic_modify\converttest\converttest\main.cpp(113): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\workspace\3dpic_modify\converttest\converttest\main.cpp(220): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\workspace\3dpic_modify\converttest\converttest\main.cpp(128): warning C4101: “buffer”: 未引用的局部变量
+f:\workspace\3dpic_modify\converttest\converttest\main.cpp(246): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\workspace\3dpic_modify\converttest\converttest\main.cpp(247): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\workspace\3dpic_modify\converttest\converttest\main.cpp(263): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\workspace\3dpic_modify\converttest\converttest\main.cpp(264): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\workspace\3dpic_modify\converttest\converttest\main.cpp(303): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\workspace\3dpic_modify\converttest\converttest\main.cpp(304): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\workspace\3dpic_modify\converttest\converttest\main.cpp(311): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\workspace\3dpic_modify\converttest\converttest\main.cpp(334): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\workspace\3dpic_modify\converttest\converttest\main.cpp(335): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\workspace\3dpic_modify\converttest\converttest\main.cpp(382): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  ConvertTest.vcxproj -> F:\WorkSpace\3Dpic_modify\ConvertTest\x64\Debug\ConvertTest.exe
+  ConvertTest.vcxproj -> F:\WorkSpace\3Dpic_modify\ConvertTest\x64\Debug\ConvertTest.pdb (Full PDB)
